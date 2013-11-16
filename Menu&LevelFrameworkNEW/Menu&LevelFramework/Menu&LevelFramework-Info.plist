@@ -4,6 +4,7 @@
 <dict>
 	<key>UIAppFonts</key>
 	<array>
+		<string>glazkrak.ttf</string>
 		<string>Raleway-ExtraBold.otf</string>
 		<string>Raleway-ExtraLight.otf</string>
 		<string>Raleway-Heavy.otf</string>

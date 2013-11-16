@@ -11,6 +11,7 @@
 @interface IntroViewController : UIViewController{
     IBOutlet UIButton* playButton;
     IBOutlet UIButton* helpButton;
+    IBOutlet UILabel* logoLabel;
 }
 
 @end

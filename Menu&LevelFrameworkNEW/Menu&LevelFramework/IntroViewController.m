@@ -34,6 +34,12 @@
     playButton.titleLabel.font = [UIFont fontWithName:@"Raleway-Medium" size:24];
     playButton.titleLabel.textColor = [UIColor blackColor];
     [playButton setTitle:@"Play" forState:UIControlStateNormal];
+    
+    logoLabel.font = [UIFont fontWithName:@"glazkrak" size:180];
+    logoLabel.textColor = [UIColor whiteColor];
+    logoLabel.text = @"JuiceBox";
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
