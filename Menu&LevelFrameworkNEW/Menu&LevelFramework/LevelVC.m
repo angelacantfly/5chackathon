@@ -73,6 +73,7 @@
     UICollectionViewCell *cell = [collectionView cellForItemAtIndexPath:indexPath];
     NSLog(@"CLICK!");
     NSLog(@"touched cell %@ at indexPath %@", cell, indexPath);
+    //adfksjasdl;fk
 }
 
 @end

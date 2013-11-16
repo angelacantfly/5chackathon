@@ -75,7 +75,7 @@
     UICollectionViewCell *cell = [collectionView cellForItemAtIndexPath:indexPath];
     
     NSLog(@"Click!");
-    //NSLog(@"touched cell %@ at indexPath %@", cell, indexPath);
+    NSLog(@"touched cell %@ at indexPath %@", cell, indexPath);
 }
 
 
