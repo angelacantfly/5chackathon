@@ -2,19 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>UIAppFonts</key>
-	<array>
-		<string>glazkrak.ttf</string>
-		<string>Raleway-ExtraBold.otf</string>
-		<string>Raleway-ExtraLight.otf</string>
-		<string>Raleway-Heavy.otf</string>
-		<string>Raleway-Light.otf</string>
-		<string>Raleway-Medium.otf</string>
-		<string>Raleway-Regular.otf</string>
-		<string>Raleway-SemiBold.otf</string>
-		<string>Raleway-Thin.otf</string>
-		<string>Raleway-Bold.otf</string>
-	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -37,6 +24,20 @@
 	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PrincessSofia-Regular.ttf</string>
+		<string>glazkrak.ttf</string>
+		<string>Raleway-ExtraBold.otf</string>
+		<string>Raleway-ExtraLight.otf</string>
+		<string>Raleway-Heavy.otf</string>
+		<string>Raleway-Light.otf</string>
+		<string>Raleway-Medium.otf</string>
+		<string>Raleway-Regular.otf</string>
+		<string>Raleway-SemiBold.otf</string>
+		<string>Raleway-Thin.otf</string>
+		<string>Raleway-Bold.otf</string>
+	</array>
 	<key>UIMainStoryboardFile</key>
 	<string>MainStoryboard</string>
 	<key>UIRequiredDeviceCapabilities</key>
