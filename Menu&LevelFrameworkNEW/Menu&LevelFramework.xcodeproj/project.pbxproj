@@ -48,6 +48,7 @@
 		055771DD1837B5C700C8B655 /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 055771DC1837B5C700C8B655 /* HelpViewController.m */; };
 		055771E01837BAD800C8B655 /* PlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 055771DF1837BAD800C8B655 /* PlayerViewController.m */; };
 		055771E31837C76000C8B655 /* IntroViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 055771E21837C76000C8B655 /* IntroViewController.m */; };
+		05977CA51839D3E8007F7CA5 /* glazkrak.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05977CA41839D3E8007F7CA5 /* glazkrak.ttf */; };
 		DADAB5BA1837A689005073CF /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DADAB5B91837A689005073CF /* CoreData.framework */; };
 		DADAB5C91837A7E0005073CF /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DADAB5C71837A7E0005073CF /* Model.xcdatamodeld */; };
 /* End PBXBuildFile section */
@@ -117,6 +118,7 @@
 		055771DF1837BAD800C8B655 /* PlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerViewController.m; sourceTree = "<group>"; };
 		055771E11837C76000C8B655 /* IntroViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntroViewController.h; sourceTree = "<group>"; };
 		055771E21837C76000C8B655 /* IntroViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntroViewController.m; sourceTree = "<group>"; };
+		05977CA41839D3E8007F7CA5 /* glazkrak.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = glazkrak.ttf; sourceTree = "<group>"; };
 		DADAB5B91837A689005073CF /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		DADAB5C81837A7E0005073CF /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -257,6 +259,7 @@
 		055771A718375BAC00C8B655 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				05977CA41839D3E8007F7CA5 /* glazkrak.ttf */,
 				0557719318375B7F00C8B655 /* Raleway-Bold.otf */,
 				0557719418375B7F00C8B655 /* Raleway-ExtraBold.otf */,
 				0557719518375B7F00C8B655 /* Raleway-ExtraLight.otf */,
@@ -358,6 +361,7 @@
 				055771A518375B7F00C8B655 /* Raleway-Thin.otf in Resources */,
 				055771A618375B7F00C8B655 /* SIL Open Font License.txt in Resources */,
 				055771AF183762E400C8B655 /* IPhone_icon_white.png in Resources */,
+				05977CA51839D3E8007F7CA5 /* glazkrak.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
